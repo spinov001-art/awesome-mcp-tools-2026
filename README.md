@@ -152,6 +152,7 @@
 
 ## Custom Server Builders
 
+- [MCP Server Starter Template](https://github.com/spinov001-art/mcp-server-starter-template) — Production-ready TypeScript template with tools, resources, prompts
 - [Zapier MCP](https://zapier.com/mcp) — Connect 7000+ apps via Zapier
 - [Make.com MCP](https://make.com) — Visual automation with MCP
 - [n8n MCP](https://n8n.io) — Open-source workflow automation
