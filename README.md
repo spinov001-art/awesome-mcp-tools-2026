@@ -186,7 +186,7 @@ PRs welcome! Add MCP servers, clients, or tools that are working and actively ma
 ## Author
 
 **Aleksej Spinov** — AI & Automation Engineer
-- 🌐 [Portfolio](https://spinov001-art.github.io)
+- 🌐 📧 **spinov001@gmail.com** — custom quote in 2 hours
 - 💻 [GitHub](https://github.com/spinov001-art) — 280+ open source repos
 - 📧 spinov001@gmail.com
 
