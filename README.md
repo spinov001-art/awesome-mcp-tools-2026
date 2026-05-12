@@ -91,6 +91,7 @@
 - [Exa MCP](https://github.com/exa-labs/exa-mcp-server) — Neural web search
 - [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) — AI-optimized web search
 - [Firecrawl MCP](https://github.com/mendableai/firecrawl-mcp-server) — Web scraping
+- [Haunt API MCP Server](https://github.com/Darko893/mcp-server) — Structured extraction from known URLs via Haunt API
 - [Playwright MCP](https://github.com/executeautomation/playwright-mcp-server) — Browser automation
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) — Headless browser
 - [Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) — HTTP requests
