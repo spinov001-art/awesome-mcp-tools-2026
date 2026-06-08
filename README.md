@@ -149,6 +149,7 @@
 - [Shopify MCP](https://github.com/Shopify/mcp-shopify) — E-commerce operations
 - [CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server) — Crypto market data
 - [Yahoo Finance MCP](https://github.com/rishikanthc/yahoo-finance-mcp) — Stock market data
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — On-chain trust scoring for Solana agent wallets. Verify counterparty wallet before x402 micropayments. Free: `score_agent`, `preflight_check`.
 
 ## Custom Server Builders
 
