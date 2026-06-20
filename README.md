@@ -75,6 +75,7 @@
 - [Kubernetes MCP](https://github.com/strowk/mcp-k8s-go) — K8s cluster operations
 - [Terraform MCP](https://github.com/hashicorp/terraform-mcp-server) — IaC management
 - [npm MCP](https://github.com/nicepkg/mcp-server-npm) — Package management
+- [ax](https://github.com/Necmttn/ax) — Read-only local coding-agent history queries
 
 ## Communication Servers
 
