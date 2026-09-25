@@ -94,6 +94,7 @@
 - [Playwright MCP](https://github.com/executeautomation/playwright-mcp-server) — Browser automation
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) — Headless browser
 - [Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) — HTTP requests
+- [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`
 
 ## Cloud & DevOps Servers
 
