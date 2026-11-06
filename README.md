@@ -147,6 +147,7 @@
 
 - [Stripe MCP](https://github.com/stripe/agent-toolkit) — Payment processing
 - [Shopify MCP](https://github.com/Shopify/mcp-shopify) — E-commerce operations
+- [JobsPipe MCP](https://jobspipe.dev) — Search aggregated job listings from public sources via hosted MCP (`https://mcp.jobspipe.dev/mcp`)
 - [CoinMarketCap MCP](https://github.com/anjor/coinmarket-mcp-server) — Crypto market data
 - [Yahoo Finance MCP](https://github.com/rishikanthc/yahoo-finance-mcp) — Stock market data
 
