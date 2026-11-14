@@ -127,6 +127,7 @@
 - [OpenAI MCP](https://github.com/mzxrai/mcp-openai) — GPT model access
 - [Replicate MCP](https://github.com/deepfates/mcp-replicate) — Run ML models
 - [Context7 MCP](https://github.com/upstash/context7) — Documentation lookup for libraries
+- [SandBase CLI](https://github.com/sandbaseai/cli) — Local MCP bridge for discovering and calling models and data APIs
 
 ## Browser & Automation Servers
 
