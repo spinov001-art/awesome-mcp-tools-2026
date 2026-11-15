@@ -94,6 +94,7 @@
 - [Playwright MCP](https://github.com/executeautomation/playwright-mcp-server) — Browser automation
 - [Puppeteer MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer) — Headless browser
 - [Fetch MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) — HTTP requests
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) — Live music venue directory, stage accessibility, and booking contacts across all 50 US states ([nostairsplease.com](https://nostairsplease.com/))
 
 ## Cloud & DevOps Servers
 
